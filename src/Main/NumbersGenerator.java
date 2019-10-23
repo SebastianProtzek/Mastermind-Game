@@ -36,7 +36,7 @@ class NumbersGenerator {
         this.numberOfTurns = numberOfTurns;
     }
 
-    public List<Integer> getMasterNumbers() {
+    List<Integer> getMasterNumbers() {
         return masterNumbers;
     }
 }
